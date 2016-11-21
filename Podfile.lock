@@ -1,0 +1,22 @@
+PODS:
+  - DVVArchiver (1.0.0)
+
+DEPENDENCIES:
+  - DVVArchiver (from `https://github.com/devdawei/DVVArchiver.git`, tag `v1.0.0`)
+
+EXTERNAL SOURCES:
+  DVVArchiver:
+    :git: https://github.com/devdawei/DVVArchiver.git
+    :tag: v1.0.0
+
+CHECKOUT OPTIONS:
+  DVVArchiver:
+    :git: https://github.com/devdawei/DVVArchiver.git
+    :tag: v1.0.0
+
+SPEC CHECKSUMS:
+  DVVArchiver: aa4895df3734ca9cdb71de845ccc8a5ce48f9400
+
+PODFILE CHECKSUM: e16ec57047dea2187fa9edbe72b6460527cd989f
+
+COCOAPODS: 1.0.1
