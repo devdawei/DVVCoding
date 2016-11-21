@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 s.name         = 'DVVCoding'
 s.summary      = '简便的对象缓存小工具。'
-s.version      = '1.0.0'
+s.version      = '1.0.1'
 s.license      = { :type => 'MIT', :file => 'LICENSE' }
 s.authors      = { 'devdawei' => '2549129899@qq.com' }
 s.homepage     = 'https://github.com/devdawei'
